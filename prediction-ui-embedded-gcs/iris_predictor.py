@@ -1,9 +1,9 @@
 import json
-pip install --upgrade setuptools
+
 import pandas as pd
 from keras.models import load_model
 import os
-import pickle
+import pickle5
 
 
 class IrisPredictor:
