@@ -1,9 +1,8 @@
 import json
 
 import pandas as pd
-from keras.models import load_model
 import os
-import pickle5
+import pickle
 
 
 class IrisPredictor:
