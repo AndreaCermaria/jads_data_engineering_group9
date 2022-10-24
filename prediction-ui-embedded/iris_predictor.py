@@ -3,7 +3,7 @@ import json
 import pandas as pd
 import numpy as np
 from keras.models import load_model
-import pickle
+import pickle5
 
 class IrisPredictor:
     def __init__(self):
