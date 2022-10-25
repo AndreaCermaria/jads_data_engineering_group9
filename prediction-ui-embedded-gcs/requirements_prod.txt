@@ -5,5 +5,3 @@ tensorflow
 numpy
 h5py
 six
-pickle5
-sklearn
